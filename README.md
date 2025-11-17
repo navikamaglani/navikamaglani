@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 
 
 Hi, I'm **Navika Maglani**!  
 **AI/ML Engineer | Data Scientist | NLP & Deep Learning Enthusiast**
@@ -18,7 +18,7 @@ from **data ingestion → model training → evaluation → deployment**.
 
 ---
 
-## 🔧 Technical Skills
+##  Technical Skills
 
 **Languages:** Python, SQL  
 **ML/DL:** PyTorch, TensorFlow/Keras, Scikit-learn, MLlib  
@@ -29,7 +29,7 @@ from **data ingestion → model training → evaluation → deployment**.
 **Databases:** SQLite, PostgreSQL  
 ---
 
-## 📈 What I’m Working On
+##  What I’m Working On
 
 - Improving ML system design and cloud architecture skills  
 - Building more LLM agents + retrieval systems  
@@ -40,6 +40,8 @@ from **data ingestion → model training → evaluation → deployment**.
 
 ## 📬 Let’s Connect
 
-**LinkedIn:** https://www.linkedin.com/in/navika-maglani-4267141a1/  
+**LinkedIn:** https://www.linkedin.com/in/navika-maglani-4267141a1/ 
+
+-I’m actively seeking AI/ML Engineer and Data Scientist opportunities — feel free to reach out!
   
 
