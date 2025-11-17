@@ -27,5 +27,19 @@ from **data ingestion → model training → evaluation → deployment**.
 **NLP:** Transformers, BERT, LLMs, Retrieval  
 **Tools:** Docker, Git, Jupyter, Dash, Streamlit  
 **Databases:** SQLite, PostgreSQL  
+---
+
+## 📈 What I’m Working On
+
+- Improving ML system design and cloud architecture skills  
+- Building more LLM agents + retrieval systems  
+- Strengthening MLOps (deployment, monitoring, optimization)  
+- Exploring multimodal deep learning  
 
 ---
+
+## 📬 Let’s Connect
+
+**LinkedIn:** https://www.linkedin.com/in/navika-maglani-4267141a1/  
+  
+
