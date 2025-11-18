@@ -13,8 +13,7 @@ I’m a Master’s student in **Data Science** with hands-on experience in:
 
 I enjoy building **scalable ML pipelines**, **vision models**, and **LLM-powered applications** that solve real-world problems.
 
-I build **end-to-end systems** —  
-from **data ingestion → model training → evaluation → deployment**.
+I build **end-to-end systems** —  from **data ingestion → model training → evaluation → deployment**.
 
 ---
 
